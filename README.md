@@ -7,6 +7,46 @@ Backend Engineer • AI Systems
 Building scalable backend services and AI-powered systems
 </p>
 
+```java
+import java.util.ArrayList;
+import java.util.List;
+
+class Engineer {
+
+    String id = "kycaine";
+    String role = "Backend Engineer | AI Systems";
+
+    List<String> brain = new ArrayList<>();
+
+    void addSkill(String skill) {
+        brain.add(skill);
+    }
+
+    void init() {
+        addSkill("API Development");
+        addSkill("Distributed Systems");
+        addSkill("LLM Integration");
+        addSkill("Machine Learning");
+    }
+
+    void runLife() {
+        try {
+            System.out.println("booting_engineer :: " + id);
+            System.out.println("role :: " + role);
+            System.out.println("skills_loaded :: " + brain);
+            System.out.println("system_status :: building scalable systems . . . . ");
+        } catch (Exception e) {
+            System.out.println("AISSH SHIBAALLLL!!");
+        }
+    }
+
+    public static void main(String[] args) {
+        var me = new Engineer();
+        me.init();
+        me.runLife();
+    }
+}
+```
 ---
 
 ## 🧠 About
@@ -56,3 +96,6 @@ https://www.hackerrank.com/profile/rizkyap90s
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kycaine&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+
+
