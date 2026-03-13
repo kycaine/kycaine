@@ -1,8 +1,7 @@
-<h1 align="center">Rezki Ade Pratama Putra</h1>
 
-<p align="center">
+<h3 align="center">
 Backend Engineer • AI Systems
-</p>
+</h3>
 
 <p align="center">
 Building scalable backend services and AI-powered systems
@@ -25,43 +24,11 @@ Backend engineer focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,java,python,ts,nodejs,spring,express,fastapi,docker,aws,postgres,mongodb,redis,rabbitmq,git"/>
-
+<img src="https://skillicons.dev/icons?i=go,java,python,ts,nodejs,spring,express,fastapi,docker,aws,postgres,mongodb,redis,rabbitmq,git,pytorch,tensorflow,sklearn,opencv,anaconda"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kycaine&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycaine&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kycaine&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kycaine&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
