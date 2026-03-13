@@ -24,7 +24,8 @@ class Engineer {
 
     void init() {
         addSkill("API Development");
-        addSkill("Distributed Systems");
+        addSkill("Data-heavy Backend Services");
+        addSkill("Async Systems");
         addSkill("LLM Integration");
         addSkill("Machine Learning");
     }
@@ -34,7 +35,7 @@ class Engineer {
             System.out.println("booting_engineer :: " + id);
             System.out.println("role :: " + role);
             System.out.println("skills_loaded :: " + brain);
-            System.out.println("system_status :: building scalable systems . . . . ");
+            System.out.println("system_status :: building a good life . . . ");
         } catch (Exception e) {
             System.out.println("AISSH SHIBAALLLL!!");
         }
