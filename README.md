@@ -52,8 +52,6 @@ class Engineer {
 
 ## 🧠 About
 
-Backend engineer focused on:
-
 • API Development
 • Data-heavy Backend Services
 • AI / LLM Integration
