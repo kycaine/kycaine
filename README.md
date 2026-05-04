@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Backend Engineer • AI Systems
+Scalable Systems & AI Architect
 </h3>
 
 <p align="center">
