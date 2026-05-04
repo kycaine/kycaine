@@ -55,9 +55,10 @@ class Engineer {
 Backend engineer focused on:
 
 • API Development
-• Async Systems
 • Data-heavy Backend Services
 • AI / LLM Integration
+• AI Platform & Machine Learning Engineer (MLE)
+• Async Systems
 
 ---
 
