@@ -7,45 +7,58 @@ Backend Engineer • AI Systems
 Building scalable backend services and AI-powered systems
 </p>
 
-```java
-import java.util.ArrayList;
-import java.util.List;
+```C++
+#include <iostream>
+#include <vector>
+#include <string>
 
-class Engineer {
+typedef struct {
+    uint32_t age = 108;
+    const char* id = "ky.";
+    const char* kernel = "Ubuntu-based Linux";
+} StackProfile;
 
-    String id = "kycaine";
-    String role = "Backend Engineer | AI Systems";
+class Ky {
+public:
+    std::vector<std::string> brain = {
+        "API Development",
+        "Data-heavy Backend Services",
+        "AI / LLM Integration",
+        "AI Platform & Machine Learning Engineer (MLE)",
+        "Async Systems"
+    };
 
-    List<String> brain = new ArrayList<>();
-
-    void addSkill(String skill) {
-        brain.add(skill);
-    }
-
-    void init() {
-        addSkill("API Development");
-        addSkill("Data-heavy Backend Services");
-        addSkill("Async Systems");
-        addSkill("LLM Integration");
-        addSkill("Machine Learning");
-    }
-
-    void runLife() {
+    void init(StackProfile* config) {
         try {
-            System.out.println("booting_engineer :: " + id);
-            System.out.println("role :: " + role);
-            System.out.println("skills_loaded :: " + brain);
-            System.out.println("system_status :: building a good life . . . ");
-        } catch (Exception e) {
-            System.out.println("AISSH SHIBAALLLL!!");
+            std::cout << "booting :: " << config->id << std::endl;
+            std::cout << "kernel :: " << config->kernel << " | age :: " << config->age << std::endl;
+            
+            this->allocate_resources();
+            this->boot_sequence();
+            
+            std::cout << "status :: building a good life . . .";
+        } catch (...) {
+            std::cerr << "AISSH SHIBAALLLL!! 0xDEADBEEF";
         }
     }
 
-    public static void main(String[] args) {
-        var me = new Engineer();
-        me.init();
-        me.runLife();
+private:
+    void allocate_resources() {
+        const char* core[] = {"Go", "Java", "Python", "Node.js", "C++"};[cite: 1]
     }
+
+    void boot_sequence() {
+        bool production_ready = true;[cite: 1]
+    }
+};
+
+int main() {
+    StackProfile config;
+    Ky* me = new Ky();
+    
+    me->init(&config);
+    
+    return 0;
 }
 ```
 ---
