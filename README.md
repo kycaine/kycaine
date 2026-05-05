@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hi%20Human%2C%20ky's%20Here&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hi%20Humans%2C%20ky's%20Here&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <b>Senior AI Backend Engineer | LLM Architect | Blockchain Engineer</b><br>
+  <b>Backend Engineer | AI Engineer | Software Architect | LLM Operations | Blockchain Enthusiast</b><br>
   Specializing in production-grade services, distributed systems, and AI-integrated pipelines.[cite: 1]
 </p>
 
@@ -12,9 +12,9 @@
 </p>
 
 ## 🚀 Current Focus
-- 🤖 **AI & LLM:** Developing production-ready LLM pipelines and automated ML systems (Gemini 1.5/2.5 Flash).[cite: 1]
-- ⛓️ **Blockchain:** Engineering **ChronoChain**, a Proof of Uptime (PoU) protocol using Go and libp2p.
-- 📱 **SaaS:** Scaling **WACAPI**, a multi-tenant WhatsApp Automation platform with BullMQ & Redis.[cite: 1]
+- 🤖 **AI & LLM:** Developing production-ready LLM pipelines and automated ML systems.
+- ⛓️ **Blockchain:** Engineering **ChronoChain**, a Proof of Uptime (PoU) protocol.
+- 📱 **SaaS:** Scaling **WhatsApp Cloud API**, a multi-tenant WhatsApp Automation platform.
 
 <p align="center">
   <a href="https://github.com/kycaine">
